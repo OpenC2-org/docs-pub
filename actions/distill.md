@@ -4,6 +4,8 @@ The DISTILL action reduces the amount of sensor data.  The means of reduction or
 
 **Table. Supported Targets and Actuators: DISTILL**
 
+| Target Type |  | Actuator Type | 
+| :--- | :--- | :--- | 
 | cybox:Network_Connection |  | network.sensor | 
 
 The DISTILL action accepts the following modifiers:

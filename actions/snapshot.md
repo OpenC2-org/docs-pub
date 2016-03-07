@@ -3,6 +3,8 @@ The SNAPSHOT action records and stores the state of a target at an instant in ti
 
 **Table. Supported Targets and Actuators: SNAPSHOT**
 
+| Target Type |  | Actuator Type | 
+| :--- | :--- | :--- | 
 | cybox:System |  | process.virtualization-service | 
 
 The SNAPSHOT action accepts the following modifiers:

@@ -4,6 +4,8 @@ A RESTART implies a graceful shutdown, maintenance of state, and a new configura
 
 **Table. Supported Targets and Actuators: RESTART**
 
+| Target Type |  | Actuator Type | 
+| :--- | :--- | :--- | 
 | cybox:System<br>cybox:Process |  | process.virtualization-service<br>endpoint | 
 
 The RESTART action accepts the following modifiers:

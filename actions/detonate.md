@@ -4,6 +4,8 @@ DETONATE is distinct from CONTAIN in that DETONATE includes an execution and ana
 
 **Table. Supported Targets and Actuators: DETONATE**
 
+| Target Type |  | Actuator Type | 
+| :--- | :--- | :--- | 
 | cybox:URI<br>cybox:File |  | process.sandbox | 
 
 The DETONATE action accepts the following modifiers:

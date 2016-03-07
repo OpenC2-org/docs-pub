@@ -4,6 +4,8 @@ The DENY action can be used to prevent a flow from reaching a destination (e.g.,
 
 **Table. Supported Targets and Actuators: DENY**
 
+| Target Type |  | Actuator Type | 
+| :--- | :--- | :--- | 
 | cybox:Network_Connection<br>cybox:URI<br>cybox:Product<br>cybox:Device<br>cybox:Process<br>cybox:User_Account |  | network.firewall<br>network.router<br>process<br>network.proxy<br>endpoint<br>process.aaa-server | 
 
 The DENY action accepts the following modifiers:

@@ -4,6 +4,8 @@ MODIFY is used to change the attributes or behavior of some system element witho
 
 **Table. Supported Targets and Actuators: MODIFY**
 
+| Target Type |  | Actuator Type | 
+| :--- | :--- | :--- | 
 | cybox:File<br>cybox:Device<br>cybox:User_Account<br>cybox:Process<br>cybox:Product<br>cybox:System |  | endpoint<br>process.directory-service | 
 
 The MODIFY action accepts the following modifiers:

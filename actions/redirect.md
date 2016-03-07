@@ -4,6 +4,8 @@ The REDIRECT action includes the case of bypassing an intermediate point. REDIRE
 
 **Table. Supported Targets and Actuators: REDIRECT**
 
+| Target Type |  | Actuator Type | 
+| :--- | :--- | :--- | 
 | cybox:Network_Connection<br>cybox:URI |  | network.router | 
 
 The REDIRECT action accepts the following modifiers:

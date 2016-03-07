@@ -4,6 +4,8 @@ SUBSTITUTE is used in cases where an attack is to be impeded or thwarted in an u
 
 **Table. Supported Targets and Actuators: SUBSTITUTE**
 
+| Target Type |  | Actuator Type | 
+| :--- | :--- | :--- | 
 | cybox:File<br>cybox:Network_Connection |  | endpoint<br>network.router | 
 
 The SUBSTITUTE action accepts the following modifiers:

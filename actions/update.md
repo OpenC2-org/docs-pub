@@ -4,6 +4,8 @@ The settings, files, patches associated with an UPDATE action are typically retr
 
 **Table. Supported Targets and Actuators: UPDATE**
 
+| Target Type |  | Actuator Type | 
+| :--- | :--- | :--- | 
 | cybox:Product<br>cybox:Device |  | endpoint<br>process.anti-virus-scanner<br>network.sensor | 
 
 The UPDATE action accepts the following modifiers:

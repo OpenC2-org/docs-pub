@@ -4,6 +4,8 @@ MOVE is distinct from CONTAIN in that CONTAIN implies a desired effect of isolat
 
 **Table. Supported Targets and Actuators: MOVE**
 
+| Target Type |  | Actuator Type | 
+| :--- | :--- | :--- | 
 | cybox:File<br>openc2:Data |  |  | 
 
 The MOVE action accepts the following modifiers:

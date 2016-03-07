@@ -5,6 +5,8 @@ Examples of actions resulting from a received REMEDIATE OpenC2 command could inc
 
 **Table. Supported Targets and Actuators: REMEDIATE**
 
+| Target Type |  | Actuator Type | 
+| :--- | :--- | :--- | 
 | cybox:Email_Message<br>cybox:Hostname<br>cybox:Address<br>cybox:Device<br>cybox:File<br>cybox:Network_Connection<br>cybox:Process<br>cybox:Product<br>cybox:System<br>cybox:X509_Certificate |  |  | 
 
 The REMEDIATE action accepts the following modifiers:

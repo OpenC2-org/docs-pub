@@ -4,6 +4,8 @@ The RESTORE could impact the whole system or return the state of an application 
 
 **Table. Supported Targets and Actuators: RESTORE**
 
+| Target Type |  | Actuator Type | 
+| :--- | :--- | :--- | 
 | cybox:Device |  | process.remediation-service | 
 
 The RESTORE action accepts the following modifiers:

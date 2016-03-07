@@ -4,6 +4,8 @@ Typically this action is specified by a configuration item such as a sensor sett
 
 **Table. Supported Targets and Actuators: SET**
 
+| Target Type |  | Actuator Type | 
+| :--- | :--- | :--- | 
 | cybox:Windows_Registry_Key<br>cybox:File<br>cybox:User_Account<br>cybox:System<br>cybox:Process<br>openc2:Data |  | endpoint.workstation<br>process.directory-service<br>network.firewall<br>network.hips<br>network.router<br>network.sensor | 
 
 The SET action accepts the following modifiers:

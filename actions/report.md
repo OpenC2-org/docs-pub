@@ -4,6 +4,8 @@ The REPORT action is used to request an actuator/sensor to provide certain infor
 
 **Table. Supported Targets and Actuators: REPORT**
 
+| Target Type |  | Actuator Type | 
+| :--- | :--- | :--- | 
 | openc2:Data |  |  | 
 
 The REPORT action accepts the following modifiers:

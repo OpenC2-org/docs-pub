@@ -4,6 +4,8 @@ The period of time for the delay can be specified in a modifier to the DELAY act
 
 **Table. Supported Targets and Actuators: DELAY**
 
+| Target Type |  | Actuator Type | 
+| :--- | :--- | :--- | 
 | cybox:Network_Connection |  |  | 
 
 The DELAY action accepts the following modifiers:

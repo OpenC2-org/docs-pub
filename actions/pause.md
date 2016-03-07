@@ -4,6 +4,8 @@ A PAUSE remains in effect until a RESUME is issued, unless the PAUSE action is a
 
 **Table. Supported Targets and Actuators: PAUSE**
 
+| Target Type |  | Actuator Type | 
+| :--- | :--- | :--- | 
 | cybox:System<br>cybox:Process |  | process.virtualization-service<br>endpoint | 
 
 The PAUSE action accepts the following modifiers:

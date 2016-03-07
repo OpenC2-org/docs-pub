@@ -4,6 +4,8 @@ QUERY, like SCAN, is used to find out more information about the system or its e
 
 **Table. Supported Targets and Actuators: QUERY**
 
+| Target Type |  | Actuator Type | 
+| :--- | :--- | :--- | 
 | openc2:Data |  | network.router<br>endpoint<br>process.directory-service | 
 
 The QUERY action accepts the following modifiers:

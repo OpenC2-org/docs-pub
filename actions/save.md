@@ -3,6 +3,8 @@ The SAVE action commits data or system state to memory.
 
 **Table. Supported Targets and Actuators: SAVE**
 
+| Target Type |  | Actuator Type | 
+| :--- | :--- | :--- | 
 | cybox:File<br>cybox:Email_Message<br>cybox:Network_Packet |  | endpoint<br>process.email-service<br>network.router | 
 
 The SAVE action accepts the following modifiers:

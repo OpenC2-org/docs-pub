@@ -4,6 +4,8 @@ NOTIFY is distinct from REPORT in that NOTIFY is used for time sensitive event n
 
 **Table. Supported Targets and Actuators: NOTIFY**
 
+| Target Type |  | Actuator Type | 
+| :--- | :--- | :--- | 
 | cybox:User_Account<br>cybox:System |  | process.email-service<br>endpoint.server | 
 
 The NOTIFY action accepts the following modifiers:

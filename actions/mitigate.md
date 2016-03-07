@@ -5,6 +5,8 @@ Examples of actions resulting from a received MITIGATE OpenC2 command could incl
 
 **Table. Supported Targets and Actuators: MITIGATE**
 
+| Target Type |  | Actuator Type | 
+| :--- | :--- | :--- | 
 | cybox:Address<br>cybox:Device<br>cybox:Email_Message<br>cybox:File<br>cybox:Hostname<br>cybox:Network_Connection<br>cybox:Process<br>cybox:Product<br>cybox:System<br>cybox:X509_Certificate |  |  | 
 
 The MITIGATE action accepts the following modifiers:

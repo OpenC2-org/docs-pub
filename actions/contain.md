@@ -4,6 +4,8 @@ The CONTAIN action is a superset of currently used terms such as ISOLATE, QUARAN
 
 **Table. Supported Targets and Actuators: CONTAIN**
 
+| Target Type |  | Actuator Type | 
+| :--- | :--- | :--- | 
 | cybox:File<br>cybox:User_Account<br>cybox:Network_Connection<br>cybox:Process<br>cybox:Device |  | endpoint<br>network | 
 
 The CONTAIN action accepts the following modifiers:

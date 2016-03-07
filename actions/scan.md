@@ -4,6 +4,8 @@ This action can be used to command the characterization of an environment (e.g.,
 
 **Table. Supported Targets and Actuators: SCAN**
 
+| Target Type |  | Actuator Type | 
+| :--- | :--- | :--- | 
 | cybox:Device<br>cybox:Email_Message<br>cybox:Network_Connection<br>cybox:Disk<br>cybox:Disk_Partition<br>cybox:Domain_Name<br>cybox:File<br>cybox:Memory<br>cybox:Network_Packet<br>cybox:Network_Subnet<br>cybox:Process<br>cybox:Product<br>cybox:System<br>cybox:URI<br>cybox:User_Account<br>cybox:User_Session<br>cybox:Volume |  | network.sensor | 
 
 The SCAN action accepts the following modifiers:

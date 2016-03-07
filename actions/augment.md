@@ -4,6 +4,8 @@ The means of augmentation and the source of additional data are indicated by a s
 
 **Table. Supported Targets and Actuators: AUGMENT**
 
+| Target Type |  | Actuator Type | 
+| :--- | :--- | :--- | 
 | cybox:Network_Connection |  | network.sensor | 
 
 The AUGMENT action accepts the following modifiers:

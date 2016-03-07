@@ -4,6 +4,8 @@ The location of the object can be designated in the specifier of the TARGET.  Th
 
 **Table. Supported Targets and Actuators: GET**
 
+| Target Type |  | Actuator Type | 
+| :--- | :--- | :--- | 
 | cybox:Email_Message<br>cybox:File<br>cybox:Memory |  | network.sense_making<br>endpoint.workstation | 
 
 The GET action accepts the following modifiers:

@@ -3,6 +3,8 @@ The COPY action duplicates a file or data flow.
 
 **Table. Supported Targets and Actuators: COPY**
 
+| Target Type |  | Actuator Type | 
+| :--- | :--- | :--- | 
 | cybox:File<br>cybox:Network_Connection<br>cybox:Network_Flow<br>cybox:Disk_Partition<br>cybox:Memory<br>??? |  |  | 
 
 The COPY action accepts the following modifiers:

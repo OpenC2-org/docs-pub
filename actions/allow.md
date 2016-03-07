@@ -4,6 +4,8 @@ An ALLOW action is typically associated with something that was previously denie
 
 **Table. Supported Targets and Actuators: ALLOW**
 
+| Target Type |  | Actuator Type | 
+| :--- | :--- | :--- | 
 | cybox:Network_Connection<br>cybox:Device<br>cybox:File<br>cybox:URI<br>cybox:Product<br>cybox:Process<br>cybox:User_Account |  | network.firewall<br>network.router<br>process.aaa-server<br>endpoint<br>network.proxy | 
 
 The ALLOW action accepts the following modifiers:

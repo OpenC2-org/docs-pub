@@ -4,6 +4,8 @@ This action is used for example to enable one to tell where in the system an eve
 
 **Table. Supported Targets and Actuators: LOCATE**
 
+| Target Type |  | Actuator Type | 
+| :--- | :--- | :--- | 
 | cybox:Device<br>cybox:Address<br>cybox:User_Account<br>cybox:File |  | process.location-service | 
 
 The LOCATE action accepts the following modifiers:

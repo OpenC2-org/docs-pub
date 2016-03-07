@@ -3,6 +3,8 @@ The SYNC action synchronizes a sensor or actuator with other system components.
 
 **Table. Supported Targets and Actuators: SYNC**
 
+| Target Type |  | Actuator Type | 
+| :--- | :--- | :--- | 
 | cybox:Device |  | endpoint | 
 
 The SYNC action accepts the following modifiers:

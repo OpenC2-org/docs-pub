@@ -3,6 +3,8 @@ The THROTTLE action adjusts the throughput of entire data flow to a different  r
 
 **Table. Supported Targets and Actuators: THROTTLE**
 
+| Target Type |  | Actuator Type | 
+| :--- | :--- | :--- | 
 | cybox:Network_Connection |  | network.router | 
 
 The THROTTLE action accepts the following modifiers:

@@ -4,6 +4,8 @@ The STOP OpenC2 action is used to convey commonly used actions such as shutdown,
 
 **Table. Supported Targets and Actuators: STOP**
 
+| Target Type |  | Actuator Type | 
+| :--- | :--- | :--- | 
 | cybox:Device<br>cybox:User_Account<br>cybox:System<br>cybox:Process<br>cybox:Windows_Service<br>cybox:User_Session<br>cybox:Disk_Partition |  | endpoint<br>process.virtualization-service<br>process.aaa-server<br>network | 
 
 The STOP action accepts the following modifiers:

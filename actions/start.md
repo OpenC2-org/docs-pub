@@ -3,6 +3,8 @@ The START action initiates a process, application, system or some other activity
 
 **Table. Supported Targets and Actuators: START**
 
+| Target Type |  | Actuator Type | 
+| :--- | :--- | :--- | 
 | cybox:Process<br>cybox:Product<br>cybox:System<br>cybox:Disk_Partition |  | endpoint<br>network<br>process.virtualization-service | 
 
 The START action accepts the following modifiers:

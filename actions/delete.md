@@ -3,6 +3,8 @@ The DELETE action removes data and files.
 
 **Table. Supported Targets and Actuators: DELETE**
 
+| Target Type |  | Actuator Type | 
+| :--- | :--- | :--- | 
 | cybox:File<br>cybox:Email_Message<br>openc2:Data |  | endpoint<br>process.email-service<br>network.firewall | 
 
 The DELETE action accepts the following modifiers:

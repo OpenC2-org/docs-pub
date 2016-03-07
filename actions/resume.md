@@ -4,6 +4,8 @@ RESUME is only meaningful after a PAUSE command.
 
 **Table. Supported Targets and Actuators: RESUME**
 
+| Target Type |  | Actuator Type | 
+| :--- | :--- | :--- | 
 | cybox:System<br>cybox:Process |  | process.virtualization-service<br>endpoint | 
 
 The RESUME action accepts the following modifiers:
