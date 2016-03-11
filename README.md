@@ -1,5 +1,8 @@
 ## Actions
 This section defines the set of OpenC2 actions grouped by their general activity.  The following table summarizes the definition of the OpenC2 actions.  Subsequent sections provide further example usages for each action.
+
+[Action Details](actions.md)
+
 ### Actions that Gather and Convey Information
 These actions are used to gather information needed to further determine courses of action or assess the effectiveness of courses of action.  These actions can be used to support data enrichment use cases and maintain situational awareness.  These actions typically do not impact the state of the target and are normally not detectable by external observers.
 ### Actions that Control Permissions
@@ -14,19 +17,17 @@ Implementation of an effects-based action requires that the recipient enclave ha
 ### Response and Alert
 Response is used to provide data requested as a result of an action.  Alert is used to signal the occurrence of an event or error.
 
-[Action Details](../blob/master/actions.md)
-
 ## Target Vocabulary
 The TARGET is the object of the ACTION (or conversely, the ACTION is performed on the TARGET).  OpenC2 will utilize pre-existing data models to provide the namespace for the TARGETs.  Initially, OpenC2 will reference the applicable CybOX objects in the OpenC2 TARGET namespace. However, OpenC2 can be supported by custom or other data models.
 
-[Target Details](../blob/master/targets.md)
+[Target Details](targets.md)
 
 ## Actuator Vocabulary
 An ACTUATOR is the entity that puts command and control into motion or action. The ACTUATOR executes the ACTION on the TARGET. To the extent possible, OpenC2 will leverage existing standardized data models for ACTUATORs (e.g., IETF Security Automation and Continuous Monitoring, Information Security Continuous Monitoring (ISCM)).
 
-[Actuator Details](../blob/master/actuators.md)
+[Actuator Details](actuators.md)
 
 ## Modifier Vocabulary
 Modifiers provide additional information about the action such as time, periodicity, duration, and location. Modifiers can denote the when, where, and how aspects of an action. The modifier can also be used to convey the need for additional status information about the execution of an action.  Modifiers can be used to indicate whether the actuator should explicitly acknowledge receipt of the command, respond upon completion of the execution of the command, or provide some other status information. The requested status/information will be carried in a RESPONSE. Refer to Section 4.6.
 
-[Modifier Details](../blob/master/modifiers.md)
+[Modifier Details](modifiers.md)
