@@ -1,5 +1,5 @@
 ## Actions
-This section defines the set of OpenC2 actions grouped by their general activity.  The following table summarizes the definition of the OpenC2 actions.  
+This section defines the set of OpenC2 actions grouped by their general activity.  The following table summarizes the definition of the OpenC2 actions.
 
 **Table. Summary of Action Definitions**
 
@@ -46,3 +46,4 @@ This section defines the set of OpenC2 actions grouped by their general activity
 |  | **Response and Alert** | 
 | [RESPONSE](actions/response.md) | RESPONSE is used to provide any data requested as a result of an action. RESPONSE can be used to signal the acknowledgement of an action, provide the status of an action along with additional information related to the requested action, or signal the completion of the action. The recipient of the RESPONSE can be the original requester of the action or to another recipient(s) designated in the modifier of the action. | 
 | [ALERT](actions/alert.md) | ALERT is used to signal the occurrence of an event or error. | 
+

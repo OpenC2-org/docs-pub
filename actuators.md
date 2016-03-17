@@ -56,5 +56,5 @@ ACTUATORs fall into classes (e.g., endpoint device, network, services/processes,
 | process.directory-service |  |  | 
 | process.remediation-service |  |  | 
 | process.reputation-service |  |  | 
-| process.virtualization-service |  |  | 
 | process.location-service |  |  | 
+
