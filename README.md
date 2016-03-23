@@ -1,5 +1,5 @@
 ## Actions
-This section defines the set of OpenC2 actions grouped by their general activity.
+All OpenC2 commands start with an ACTION which indicates the type of command to perform such as gather and convey information, control activities and devices, and control permissions and access.  The range of options and potential impact on the information system associated with a particular ACTION is a function of the ACTUATOR.  For cases that involve multiple options for an ACTION, modifiers are used.
 
 [Action Details](actions.md)
 
