@@ -6,6 +6,7 @@ An ACTUATOR is the entity that puts command and control into motion or action. T
 | Type | Description | Options | 
 | :--- | :--- | :--- | 
 | namespace | Used to uniquely identify a set of names so there is no ambiguity; defines the context in which names are defined. | Choice of:<br>  TBD: e.g., ISCM, SACM<br>  OpenC2<br>  Custom | 
+
 ACTUATORs fall into classes (e.g., endpoint device, network, services/processes, and human). Refer to the following table for a summary of supported OpenC2 ACTUATORs.
 
 **Table. Summary of Supported Actuators**

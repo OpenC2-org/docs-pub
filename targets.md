@@ -6,6 +6,7 @@ The TARGET is the object of the ACTION (or conversely, the ACTION is performed o
 | Type | Description | Options | 
 | :--- | :--- | :--- | 
 | namespace | Used to uniquely identify a set of names so there is no ambiguity; defines the context in which names are defined. | Choice of:<br>  CybOX<br>  OpenC2<br>  Custom | 
+
 Targets include objects such as network connections, URLs, hashes, IP addresses, files, processes, and domains. Refer to the following table for a summary of the supported OpenC2 TARGETs in CybOX Namespace.
 
 **Table. Summary of Supported Targets**
