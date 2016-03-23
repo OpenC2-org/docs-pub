@@ -1,5 +1,5 @@
 ## Actions
-TBSL
+This section defines the set of OpenC2 actions grouped by their general activity.
 
 [Action Details](actions.md)
 
