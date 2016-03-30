@@ -11,9 +11,7 @@ These use cases will link to the use case details when they are published.
 
 - [Host Remediation](https://github.com/OpenC2-org/docs-contributors/blob/master/use-cases/host-remediation.md)
 
-- [Mitigate Evil Domain](https://github.com/OpenC2-org/docs-contributors/blob/master/use-cases/mitigate-evil-domain.md)
-
 - [Update Sensor Signatures](https://github.com/OpenC2-org/docs-contributors/blob/master/use-cases/update-sensor-sig.md)
 
-- [Action Response Patterns](https://github.com/OpenC2-org/docs-contributors/blob/master/use-cases/.md)
+- [Mitigate Evil Domain](https://github.com/OpenC2-org/docs-pub/blob/master/use-cases/mitigate-evil-domain.md)
 
