@@ -7,11 +7,11 @@ The following table lists the set of modifiers that is broadly applicable across
 
 | Modifier | Type | Description | Target Applicability | 
 | :--- | :--- | :--- | :--- | 
-| delay | time | Optional.  The time to wait before performing the action. | All | 
-| duration | time | Optional.  The time to wait until returning to the previous state. | All | 
-| frequency |  | Optional.  The frequency at which to perform the action. | All | 
-| response | ack, status | Optional.  Indicate the type of response required for the action. | All | 
-| time | time | Optional.  The specific time to initiate the action. | All | 
+| delay | duration | Optional. The time to wait before performing the action. | All | 
+| duration | duration | Optional. The period of time that an action is valid. | All | 
+| response | ack, status | Optional. Indicate the type of response required for the action. | All | 
+| datetime | datetime | Optional. The specific date/time to initiate the action. | All | 
+| id | string | The unique identifier for the action. | All | 
 
 Modifiers are similar to specifiers in that they can provide additional context specific details for an action, and are intended to provide additional details for action/target pairs. Action-specific modifiers are identified in the sections detailing out each action.
 

@@ -15,3 +15,5 @@ These use cases will link to the use case details when they are published.
 
 - [Mitigate Evil Domain](https://github.com/OpenC2-org/docs-pub/blob/master/use-cases/mitigate-evil-domain.md)
 
+- [Reference Implementation](https://github.com/OpenC2-org/docs-pub/blob/master/use-cases/reference-implementation.md)
+
