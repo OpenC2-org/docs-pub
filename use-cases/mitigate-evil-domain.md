@@ -1,12 +1,20 @@
-## Use Case: Mitigate Evil Domain
-### Description
-TBSL
+# Use Case: Mitigate Evil Domain
+## Description
 
-**Table. Scenario Diagram: Mitigate Evil Domain**
+A cyber threat analyst reviews structured and unstructured information regarding cyber threat activity from a variety of manual or automated input sources. The analyst sets out to understand the nature of relevant threats, identify them, and fully characterize them such that all of the relevant knowledge of the threat can be fully expressed and evolved over time. This relevant knowledge includes threat-related actions, behaviors, capabilities, intents, and attributed actors. From this understanding and characterization, the analyst at an upper tier determines that a domain is “evil”. The upper tier notifies lower level enclaves of the need to mitigate against this evil domain.
 
-![alt text](https://github.com/OpenC2-org/docs-pub/blob/master/use-cases/mitigate-evil-domain.png "Use Case Diagram")
-![alt text](https://github.com/OpenC2-org/docs-pub/blob/master/use-cases/mitigate-evil-domain-2.png "Use Case Diagram")
+## Stakeholders/Goals
 
+Upper Tier shares threat intelligence with lower tier. Lower tier acts on the shared threat intelligence.
+
+## Preconditions
+
+Upper and lower tier have pre-established a trust relationship.
+
+**Figure. Scenario Diagram: Mitigate Evil Domain**
+
+![alt text](mitigate-evil-domain.png "Use Case Diagram")
+![alt text](mitigate-evil-domain-2.png "Use Case Diagram")
 
 **Table. Scenario Steps: Mitigate Evil Domain**
 

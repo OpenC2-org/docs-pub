@@ -4,7 +4,7 @@ TBSL
 
 **Table. Scenario Diagram: Reference Implementation**
 
-![alt text](https://github.com/OpenC2-org/docs-pub/blob/master/use-cases/reference-implementation.png "Use Case Diagram")
+![alt text](https://github.com/OpenC2-org/docs-members/blob/master/use-cases/reference-implementation.png "Use Case Diagram")
 
 
 **Table. Scenario Steps: Reference Implementation**
