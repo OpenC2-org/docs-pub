@@ -11,53 +11,37 @@ Revision | Date | Description
 # [1. Introduction](1_introduction.md#1-introduction)
 
 ## [1.1 Purpose](1_introduction.md#11-purpose)
-
 ## [1.2 Scope](1_introduction.md#12-scope)
-
 ## [1.3 Intended Audience](1_introduction.md#13-intended-audience)
-
 ## [1.4 Document Overview](1_introduction.md#14-document-overview)
 
 # [2. Background](2_background.md#2-background)
 
 ## [2.1 Design Principles](2_background.md#21-design-principles)
-
 ## [2.2 OpenC2 and Deployment Environments](2_background.md#22-openc2-and-deployment-environments)
 
 # [3. OpenC2 Language](3.0_openc2-language.md#3-openc2-language)
 
 ## [3.1 Overview](3.0_openc2-language.md#31-overview)
-
 ## [3.2 Abstract Syntax](3.0_openc2-language.md#32-abstract-syntax)
 
 ### [3.2.1 Action](3.0_openc2-language.md#321-action)
-
 ### [3.2.2 Target](3.0_openc2-language.md#322-target)
-
 ### [3.2.3 Actuator](3.0_openc2-language.md#323-actuator)
-
 ### [3.2.4 Specifiers](3.0_openc2-language.md#324-specifiers)
-
 ### [3.2.5 Modifiers](3.0_openc2-language.md#325-modifiers)
 
 ## [3.3 Actions](3.3_actions.md#33-actions)
 
 ### [3.3.1 Actions that Gather and Convey Information](3.3_actions.md#331-actions-that-gather-and-convey-information)
-
 ### [3.3.2 Actions that Control Permissions](3.3_actions.md#332-actions-that-control-permissions)
-
 ### [3.3.3 Actions that Control Activities/Devices](3.3_actions.md#333-actions-that-control-activitiesdevices)
-
 ### [3.3.4 Sensor-Related Actions](3.3_actions.md#334-sensor-related-actions)
-
 ### [3.3.5 Effects-Based Actions](3.3_actions.md#335-effects-based-actions)
-
 ### [3.3.6 Response and Alert](3.3_actions.md#336-response-and-alert)
 
 ## [3.4 Target Vocabulary](3.4_target-vocabulary.md#34-target-vocabulary)
-
 ## [3.5 Actuator Vocabulary](3.5_actuator-vocabulary.md#35-actuator-vocabulary)
-
 ## [3.6 Modifier Vocabulary](3.6_modifier-vocabulary.md#36-modifier-vocabulary)
 
 # [4. Example OpenC2 Usage](4_example-openc2-usage.md#4-example-openc2-usage)
