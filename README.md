@@ -5,7 +5,6 @@
 Revision | Date | Description
 ---------|------|------------
 1.0 - RC | 08/22/2016 | Version 1.0 -- Release Candidate
-1.0.1    | working    | Aligning actuator names CybOX 3 convention  [\[Issue #14\]](https://github.com/OpenC2-org/openc2-working-group/issues/14)
 
 ## TABLE OF CONTENTS
 
