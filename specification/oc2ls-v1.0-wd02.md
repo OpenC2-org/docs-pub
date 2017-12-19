@@ -84,6 +84,7 @@ The optional COMMAND-OPTIONS field is populated by one or more ‘command-option
 Table 2-1 summarizes the fields and subfields of an OpenC2 Command. OpenC2 Commands MUST contain an ACTION and TARGET and MAY contain an ACTUATOR and/or COMMAND-OPTIONS. OpenC2 is agnostic of any particular serialization; however, implementations MUST support JSON serialization of the commands.
 
 **Table 2-1. OpenC2 Command Field Descriptions**
+
 | Field                                | Description                  |
 |:-------------------------------------|:-----------------------------|
 | ACTION                               | Required. The task or activity to be performed.
@@ -112,6 +113,7 @@ This section defines the set of OpenC2 actions grouped by their general activity
  * _Effects-Based Actions_: Effects-based actions are at a higher level of abstraction for purposes of communicating a desired impact rather than a command to execute specific tasks. This level of abstraction enables coordinated actions between enclaves, while permitting a local enclave to optimize its workflow for its specific environment. Effects-based action assumes that the recipient enclave has a decision-making capability because effects-based actions typically do not have a one-to-one mapping to the other actions.
 
 **Table 2-2. Summary of Action Definitions**
+
 | Action      | Description                                           |
 |:------------|:------------------------------------------------------|
 |             | **Actions that Control Information**                  |
@@ -155,6 +157,7 @@ This section defines the set of OpenC2 actions grouped by their general activity
 The TARGET is the object of the ACTION (or alternatively, the ACTION is performed on the TARGET).  The baseline set of TARGETs is summarized in Table 2-3 and a full description of the targets and their associated specifiers is documented in the property tables (TBSL).
 
 **Table 2-3. Summary of Target Definitions.**
+
 | Target          | Description                                       |
 |:----------------|:--------------------------------------------------|
 | TBSL            | TBSL                                              |
@@ -170,6 +173,7 @@ COMMAND OPTIONS influence a command and are independent of the TARGET, ACTUATOR 
 Table 2-4 lists the valid modifiers.
 
 **Table 2-4. Summary of Command Options.**
+
 | Command Option | Type      | Description                            |
 |:---------------|:----------|:---------------------------------------|
 | TBSL           | TBSL      | TBSL                                   |
